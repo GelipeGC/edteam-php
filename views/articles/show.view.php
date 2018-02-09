@@ -12,25 +12,43 @@
 
                         <div class="ed-item main-center">
                             <h3 class="product__page__size">
-                                Precio: <?= $article->price ?>
+                                Precio: <?= $article->priceFloat ?>USD
                             </h3>
                         </div>
 
-                        <div class="ed-item main-center">
-                            <h3 class="product__page__size">
-                                Tallas:
-                                <?php foreach ($article->sizes as $size): ?>
-                                    <?= $size->name ?>
-                                <?php endforeach; ?>
-                            </h3>
-                        </div>
+                        
+                        <form class="ed-item main-center" name="_xclick" target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                            <input type="hidden" name="cmd" value="_cart">
+                            <input type="hidden" name="business" value="felipe-guzman.c@hotmail.com">
+                            <input type="hidden" name="currency_code" value="USD">
+                            <input type="hidden" name="item_name" value="<?= $article->name ?>">
+                            <input type="hidden" name="amount" value="<?= $article->priceFloat ?>">
+                            <?php //<input type="image" src="http://www.paypal.com/es_ES/i/btn/sc-but-01.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">?>
+                            <input type="hidden" name="add" value="1">
+                            <input type="hidden" name="charset" value="utf-8">
+                            <input type="hidden" name="on0" value="Talla">
 
-                        <div class="ed-item main-center">
-                            <h3 class="product__page__color">Color: negro</h3>
-                        </div>
+                            <?php if (!$article->sizes->isEmpty()): ?>
+                                <div class="ed-item main-center">
+                                    <h3 class="product__page__size">
+                                        <label for="os0">Talla:</label>
+                                        <select name="os0" id="os0">
+                                            <?php foreach ($article->sizes as $size): ?>
+                                                <option value="<?= $size->name ?>">
+                                                    <?= $size->name ?>
+                                                </option>
+                                            <?php endforeach; ?>
+                                        </select>
+                                    </h3>
+                                </div>
+                            <?php endif; ?>
 
-                        <div class="ed-item main-center"><a href="#" class="boton icon-cart espacio product__page__buy">Comprar</a>
-                        </div>
+                            <button type="submit" class="boton icon-cart espacio product__page__buy">
+                                Añadir al carrito
+                            </button>
+                        </form>
+
+                      
 
                         <div class="ed-item main-center product__page__share">
                             <div class="sociales"><a href="http://facebook.com" class="icon-facebook"></a><a

@@ -11,4 +11,11 @@ class Article extends Model
   {
     return $this->belongsToMany('App\Models\Size');
   }
+
+  public function getPriceFloatAttribute()
+  {
+    $price = (float) $this->attributes['price'] / 100;
+
+    return round($price, 2);
+  }
 }
