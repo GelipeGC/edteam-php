@@ -1,0 +1,21 @@
+{
+    "name": "gelipegc/edteam-php",
+    "description": "proyecto php desde cero",
+    "authors": [
+        {
+            "name": "Felipe Guzman",
+            "email": "felipe.lightcone@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "illuminate/database":"5.2.21",
+        "phpmailer/phpmailer": "5.2.14",
+        "gregwar/captcha": "1.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+[Wed Feb 07 14:01:34.847591 2018] [core:alert] [pid 18903] [client 127.0.0.1:44632] /home/felipe/vhosts/edteam-php/public/.htaccess: Illegal option FolloSymLinks
+[Wed Feb 07 14:01:34.955758 2018] [core:alert] [pid 18904] [client 127.0.0.1:44634] /home/felipe/vhosts/edteam-php/public/.htaccess: Illegal option FolloSymLinks, referer: http://edstyles.in/
+[Wed Feb 07 14:02:49.315518 2018] [core:alert] [pid 18906] [client 127.0.0.1:45242] /home/felipe/vhosts/edteam-php/public/.htaccess: Illegal option FolloSymLinks
+[Wed Feb 07 14:02:49.359068 2018] [core:alert] [pid 18907] [client 127.0.0.1:45244] /home/felipe/vhosts/edteam-php/public/.htaccess: Illegal option FolloSymLinks, referer: http://edstyles.in/
+[Wed Feb 07 14:02:50.707342 2018] [core:alert] [pid 18903] [client 127.0.0.1:45246] /home/felipe/vhosts/edteam-php/public/.htaccess: Illegal option FolloSymLinks
+[Wed Feb 07 14:02:50.787357 2018] [core:alert] [pid 18904] [client 127.0.0.1:45248] /home/felipe/vhosts/edteam-php/public/.htaccess: Illegal option FolloSymLinks, referer: http://edstyles.in/
+[Wed Feb 07 14:02:50.982718 2018] [core:alert] [pid 19029] [client 127.0.0.1:45260] /home/felipe/vhosts/edteam-php/public/.htaccess: Illegal option FolloSymLinks
+[Wed Feb 07 14:02:51.031295 2018] [core:alert] [pid 18906] [client 127.0.0.1:45270] /home/felipe/vhosts/edteam-php/public/.htaccess: Illegal option FolloSymLinks, referer: http://edstyles.in/
+[Wed Feb 07 14:02:51.215706 2018] [core:alert] [pid 18907] [client 127.0.0.1:45272] /home/felipe/vhosts/edteam-php/public/.htaccess: Illegal option FolloSymLinks
+[Wed Feb 07 14:02:51.267476 2018] [core:alert] [pid 18905] [client 127.0.0.1:45276] /home/felipe/vhosts/edteam-php/public/.htaccess: Illegal option FolloSymLinks, referer: http://edstyles.in/
+[Wed Feb 07 14:02:51.397975 2018] [core:alert] [pid 18903] [client 127.0.0.1:45278] /home/felipe/vhosts/edteam-php/public/.htaccess: Illegal option FolloSymLinks
+[Wed Feb 07 14:02:51.441382 2018] [core:alert] [pid 18904] [client 127.0.0.1:45280] /home/felipe/vhosts/edteam-php/public/.htaccess: Illegal option FolloSymLinks, referer: http://edstyles.in/
+[Wed Feb 07 14:02:51.595016 2018] [core:alert] [pid 19029] [client 127.0.0.1:45282] /home/felipe/vhosts/edteam-php/public/.htaccess: Illegal option FolloSymLinks
+[Wed Feb 07 14:02:51.635441 2018] [core:alert] [pid 18906] [client 127.0.0.1:45284] /home/felipe/vhosts/edteam-php/public/.htaccess: Illegal option FolloSymLinks, referer: http://edstyles.in/
+[Wed Feb 07 15:30:13.243329 2018] [core:alert] [pid 18904] [client 127.0.0.1:52220] /home/felipe/vhosts/edteam-php/public/.htaccess: Illegal option FolloSymLinks
+[Wed Feb 07 15:30:13.315887 2018] [core:alert] [pid 18903] [client 127.0.0.1:52222] /home/felipe/vhosts/edteam-php/public/.htaccess: Illegal option FolloSymLinks, referer: http://edstyles.in/
+[Wed Feb 07 15:30:14.285034 2018] [core:alert] [pid 18906] [client 127.0.0.1:52224] /home/felipe/vhosts/edteam-php/public/.htaccess: Illegal option FolloSymLinks
+[Wed Feb 07 15:30:14.330564 2018] [core:alert] [pid 18907] [client 127.0.0.1:52234] /home/felipe/vhosts/edteam-php/public/.htaccess: Illegal option FolloSymLinks, referer: http://edstyles.in/
+[Wed Feb 07 15:30:14.438815 2018] [core:alert] [pid 19029] [client 127.0.0.1:52236] /home/felipe/vhosts/edteam-php/public/.htaccess: Illegal option FolloSymLinks
+[Wed Feb 07 15:30:14.478861 2018] [core:alert] [pid 18905] [client 127.0.0.1:52238] /home/felipe/vhosts/edteam-php/public/.htaccess: Illegal option FolloSymLinks, referer: http://edstyles.in/
+[Wed Feb 07 15:30:14.576673 2018] [core:alert] [pid 18904] [client 127.0.0.1:52240] /home/felipe/vhosts/edteam-php/public/.htaccess: Illegal option FolloSymLinks
+[Wed Feb 07 15:30:14.616948 2018] [core:alert] [pid 18903] [client 127.0.0.1:52242] /home/felipe/vhosts/edteam-php/public/.htaccess: Illegal option FolloSymLinks, referer: http://edstyles.in/
+[Wed Feb 07 15:30:14.731823 2018] [core:alert] [pid 18906] [client 127.0.0.1:52244] /home/felipe/vhosts/edteam-php/public/.htaccess: Illegal option FolloSymLinks
+[Wed Feb 07 15:30:14.772237 2018] [core:alert] [pid 18907] [client 127.0.0.1:52246] /home/felipe/vhosts/edteam-php/public/.htaccess: Illegal option FolloSymLinks, referer: http://edstyles.in/
+[Wed Feb 07 15:30:14.887399 2018] [core:alert] [pid 19029] [client 127.0.0.1:52248] /home/felipe/vhosts/edteam-php/public/.htaccess: Illegal option FolloSymLinks
+[Wed Feb 07 15:30:14.927869 2018] [core:alert] [pid 18905] [client 127.0.0.1:52250] /home/felipe/vhosts/edteam-php/public/.htaccess: Illegal option FolloSymLinks, referer: http://edstyles.in/
+[Wed Feb 07 15:30:15.036676 2018] [core:alert] [pid 18904] [client 127.0.0.1:52252] /home/felipe/vhosts/edteam-php/public/.htaccess: Illegal option FolloSymLinks
+[Wed Feb 07 15:30:15.078092 2018] [core:alert] [pid 18903] [client 127.0.0.1:52262] /home/felipe/vhosts/edteam-php/public/.htaccess: Illegal option FolloSymLinks, referer: http://edstyles.in/
+[Wed Feb 07 15:30:15.197628 2018] [core:alert] [pid 18906] [client 127.0.0.1:52264] /home/felipe/vhosts/edteam-php/public/.htaccess: Illegal option FolloSymLinks
+[Wed Feb 07 15:30:15.243571 2018] [core:alert] [pid 18907] [client 127.0.0.1:52266] /home/felipe/vhosts/edteam-php/public/.htaccess: Illegal option FolloSymLinks, referer: http://edstyles.in/
+[Wed Feb 07 15:30:15.363140 2018] [core:alert] [pid 19029] [client 127.0.0.1:52268] /home/felipe/vhosts/edteam-php/public/.htaccess: Illegal option FolloSymLinks
+[Wed Feb 07 15:30:15.403171 2018] [core:alert] [pid 18905] [client 127.0.0.1:52270] /home/felipe/vhosts/edteam-php/public/.htaccess: Illegal option FolloSymLinks, referer: http://edstyles.in/
+[Wed Feb 07 15:30:15.517617 2018] [core:alert] [pid 18904] [client 127.0.0.1:52272] /home/felipe/vhosts/edteam-php/public/.htaccess: Illegal option FolloSymLinks
+[Wed Feb 07 15:30:15.560068 2018] [core:alert] [pid 18903] [client 127.0.0.1:52274] /home/felipe/vhosts/edteam-php/public/.htaccess: Illegal option FolloSymLinks, referer: http://edstyles.in/
+[Wed Feb 07 15:30:15.682861 2018] [core:alert] [pid 18906] [client 127.0.0.1:52276] /home/felipe/vhosts/edteam-php/public/.htaccess: Illegal option FolloSymLinks
+[Wed Feb 07 15:30:15.720921 2018] [core:alert] [pid 18907] [client 127.0.0.1:52278] /home/felipe/vhosts/edteam-php/public/.htaccess: Illegal option FolloSymLinks, referer: http://edstyles.in/
+[Wed Feb 07 15:30:15.873872 2018] [core:alert] [pid 19029] [client 127.0.0.1:52280] /home/felipe/vhosts/edteam-php/public/.htaccess: Illegal option FolloSymLinks
+[Wed Feb 07 15:30:15.914542 2018] [core:alert] [pid 18905] [client 127.0.0.1:52282] /home/felipe/vhosts/edteam-php/public/.htaccess: Illegal option FolloSymLinks, referer: http://edstyles.in/
